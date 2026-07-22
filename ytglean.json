@@ -1,19 +1,19 @@
 {
-    "version": "0.2.0",
+    "version": "0.3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Crymfox/YTGlean/releases/download/v0.2.0/ytglean_0.2.0_windows_amd64.zip",
+            "url": "https://github.com/Crymfox/YTGlean/releases/download/v0.3.0/ytglean_0.3.0_windows_amd64.zip",
             "bin": [
                 "ytglean.exe"
             ],
-            "hash": "f4eea9c0573ce28955e197defed42c32720f3ba216d0e12162e439c94843e786"
+            "hash": "13f96a2f4a29392caaeb6143d4228b846bda43722949827a04a962eb2b0ebc44"
         },
         "arm64": {
-            "url": "https://github.com/Crymfox/YTGlean/releases/download/v0.2.0/ytglean_0.2.0_windows_arm64.zip",
+            "url": "https://github.com/Crymfox/YTGlean/releases/download/v0.3.0/ytglean_0.3.0_windows_arm64.zip",
             "bin": [
                 "ytglean.exe"
             ],
-            "hash": "b99f0683a9d2ebfcea59fe6c076a12d0bf14c02d5d8232af4f67ea2f386978e5"
+            "hash": "1fe020f1a74ff80d57240ca4ec3e5acb92b25e493fc3eed24780aaeb4e8b8af1"
         }
     },
     "homepage": "https://github.com/Crymfox/YTGlean",
